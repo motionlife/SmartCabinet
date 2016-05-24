@@ -9,7 +9,7 @@ An IoT project with Arduino Mega2560 as the main controller and ESP8266 as the W
 
 ![alt tag](http://cdn.sg-z.com/assets/device/back.jpg)
 
-## 3.Key state detecting matrices
+## 3.Key State Detecting Matrices
 
 ![alt tag](http://cdn.sg-z.com/assets/device/matrix.jpg)
 
